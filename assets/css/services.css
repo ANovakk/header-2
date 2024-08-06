@@ -38,9 +38,6 @@
   margin: 0;
 }
 
-body {
-  /* background-color: red; */
-}
 
 body, a{
   font-family: "Montserrat", sans-serif;
@@ -81,15 +78,6 @@ a:hover{
   padding: 0 20px;
 }
 
-.button{
-  background-color: red;
-  border-radius: 50px;
-  width: fit-content;
-  font-size: 25px;
-  padding: 10px 15px;
-  margin-bottom: 50px;
-}
-
 .main h1, h2{
   margin: 50px 0;
 }
@@ -97,28 +85,6 @@ a:hover{
   margin-top: 5px;
 }
 
-.advantages{
-  margin-top: 100px;
-}
-.our_advantages{
-  margin: 20px 0;
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  border: 0.5rem solid red;
-  border-radius: 4rem;
-  padding: 5rem 0;
-  gap: 1rem;
-}
-
-.advantages-item{
-  text-align: center;
-  width: 16rem;
-}
-.advantages-item img{
-  width: 120px;
-  height: 120px;
-}
 
 /*=============== BREAKPOINTS ===============*/
 
