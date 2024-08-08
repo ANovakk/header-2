@@ -78,13 +78,38 @@ a:hover{
   padding: 0 20px;
 }
 
-.main h1, h2{
+.main h1{
   margin: 50px 0;
 }
-.main li{
-  margin-top: 5px;
+
+.main h2{
+  margin-top: 50px;
 }
 
+.main ul{
+  margin: 40px 0;
+}
+
+.main ul li{
+  margin-top: 10px;
+}
+
+.main p{
+  margin-top: 20px;
+}
+
+.examples__container{
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.examples__container img{
+  width: 100%;
+  align-self: stretch;
+  border-radius: 15px;
+}
 
 /*=============== BREAKPOINTS ===============*/
 
@@ -116,4 +141,15 @@ a:hover{
     margin-bottom: 100px;
   }
 
+}
+
+@media (max-width: 768px) {
+  .examples__container {
+      grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 480px) {
+  .examples__container {
+      grid-template-columns: 1fr;
+  }
 }

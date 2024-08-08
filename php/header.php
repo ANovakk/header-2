@@ -15,7 +15,7 @@
         <div class="nav__menu" id="nav-menu">
             <ul class="nav__list">
                 <li>
-                    <a href="#" class="nav__link">Главная</a>
+                    <a href="index.php" class="nav__link">Главная</a>
                 </li>
 
                 <!--=============== DROPDOWN 1 ===============-->
@@ -31,11 +31,11 @@
                                 <span class="dropdown__title">Услуги лазерной гравировки</span>
 
                                 <ul class="dropdown__list">
-                                    <li><a href="" class="dropdown__link">Гравировка на дереве</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на коже</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на камне</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на металле</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на стекле</a></li>
+                                    <li><a href="wood.php" class="dropdown__link">Гравировка по дереву</a></li>
+                                    <li><a href="leather.php" class="dropdown__link">Гравировка на коже</a></li>
+                                    <li><a href="stone.php" class="dropdown__link">Гравировка на камне</a></li>
+                                    <li><a href="metal.php" class="dropdown__link">Гравировка на металле</a></li>
+                                    <li><a href="glass.php" class="dropdown__link">Гравировка на стекле</a></li>
                                     <li><a href="" class="dropdown__link">Гравировка на оргстекле</a></li>
                                     <li><a href="" class="dropdown__link">Гравировка на пластике</a></li>
                                     <li><a href="" class="dropdown__link">Гравировка на серебре и золоте</a></li>
