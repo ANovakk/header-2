@@ -36,9 +36,9 @@
                                     <li><a href="stone.php" class="dropdown__link">Гравировка на камне</a></li>
                                     <li><a href="metal.php" class="dropdown__link">Гравировка на металле</a></li>
                                     <li><a href="glass.php" class="dropdown__link">Гравировка на стекле</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на оргстекле</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на пластике</a></li>
-                                    <li><a href="" class="dropdown__link">Гравировка на серебре и золоте</a></li>
+                                    <li><a href="org-glass.php" class="dropdown__link">Гравировка на оргстекле</a></li>
+                                    <li><a href="plast.php" class="dropdown__link">Гравировка на пластике</a></li>
+                                    <li><a href="silver-gold.php" class="dropdown__link">Гравировка на серебре и золоте</a></li>
                                 </ul>
                             </div>
 
