@@ -83,6 +83,7 @@ a:hover{
 
 .button{
   background-color: red;
+  color: white;
   border-radius: 50px;
   width: fit-content;
   font-size: 25px;
