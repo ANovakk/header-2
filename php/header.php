@@ -47,10 +47,10 @@
                                 <span class="dropdown__title">Гравировка на технике</span>
 
                                 <ul class="dropdown__list">
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/lazernaya-gravirovka-klaviatury/" class="dropdown__link">Клавиатуры Macbook</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/gravirovka-na-elektronike/gravirovka-na-klaviature/" class="dropdown__link">Гравировка на клавиатуре</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/gravirovka-na-telefone/" class="dropdown__link">Гравировка на телефоне</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/gravirovka-na-fleshke/" class="dropdown__link">Гравировка на флешках</a></li>
+                                    <li class="dropdown__link"><a href="" class="dropdown__link">Клавиатуры Macbook</a></li>
+                                    <li class="dropdown__link"><a href="" class="dropdown__link">Гравировка на клавиатуре</a></li>
+                                    <li class="dropdown__link"><a href="#" class="dropdown__link">Гравировка на телефоне</a></li>
+                                    <li class="dropdown__link"><a href="#" class="dropdown__link">Гравировка на флешках</a></li>
                                 </ul>
 
                                 
@@ -61,10 +61,9 @@
                                 <span class="dropdown__title">УФ печать</span>
 
                                 <ul class="dropdown__list">
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/uf-pechat/uf-pechat-na-stekle/" class="dropdown__link">УФ печать на стекле</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/uf-pechat/uf-pechat-na-plastike/" class="dropdown__link">УФ печать на пластике</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/uf-pechat/uf-pechat-na-plenke/" class="dropdown__link">УФ печать на пленке</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/uf-pechat/uf-pechat-na-metalle/" class="dropdown__link">УФ печать на металле</a></li>
+                                    <li class="dropdown__link"><a href="uv_glass.php" class="dropdown__link">УФ печать на стекле</a></li>
+                                    <li class="dropdown__link"><a href="uv_plast.php" class="dropdown__link">УФ печать на пластике</a></li>
+                                    <li class="dropdown__link"><a href="uv_metal.php" class="dropdown__link">УФ печать на металле</a></li>
                                 </ul>
                                 
                                 <br>
@@ -72,10 +71,10 @@
                                 <span class="dropdown__title">Гравировка на призах</span>
 
                                 <ul class="dropdown__list">
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/nagradnaya-gravirovka/gravirovka-na-medalyakh/" class="dropdown__link">Гравировка на медалях</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/uslugi/nagradnaya-gravirovka/gravirovka-na-kubkakh/" class="dropdown__link">Гравировка на кубках</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/prizy-iz-akrila/" class="dropdown__link">Призы из акрила</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/prizy-iz-stekla/" class="dropdown__link">Призы из стекла</a></li>
+                                    <li class="dropdown__link"><a href="medals.php" class="dropdown__link">Гравировка на медалях</a></li>
+                                    <li class="dropdown__link"><a href="trophies.php" class="dropdown__link">Гравировка на кубках</a></li>
+                                    <li class="dropdown__link"><a href="acrylic-trophies.php" class="dropdown__link">Призы из акрила</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/prizy-iz-stekla/" class="dropdown__link">Призы из стекла</a></li>
                                 </ul>
                                 
                             </div>
@@ -85,15 +84,15 @@
                                 <span class="dropdown__title">Изготовление табличек</span>
 
                                 <ul class="dropdown__list">
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/iz-alyuminiya/" class="dropdown__link">Таблички из алюминия</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/iz-orgstekla/" class="dropdown__link">Таблички из оргстекла</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/plastikovye/" class="dropdown__link">Пластиковые таблички</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/latunnye/" class="dropdown__link">Латунные таблички</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/iz-stali/" class="dropdown__link">Таблички из стали</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/metallicheskie/" class="dropdown__link">Металлические таблички</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/na-dver/" class="dropdown__link">Таблички на дверь</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/fasadnye/" class="dropdown__link">Фасадные таблички</a></li>
-                                    <li class="menu_item_2 menu_active_child"><a href="https://laser-m.ru/izgotovlenie-tablichek/ofisnye/" class="dropdown__link">Офисные таблички</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/iz-alyuminiya/" class="dropdown__link">Таблички из алюминия</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/iz-orgstekla/" class="dropdown__link">Таблички из оргстекла</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/plastikovye/" class="dropdown__link">Пластиковые таблички</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/latunnye/" class="dropdown__link">Латунные таблички</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/iz-stali/" class="dropdown__link">Таблички из стали</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/metallicheskie/" class="dropdown__link">Металлические таблички</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/na-dver/" class="dropdown__link">Таблички на дверь</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/fasadnye/" class="dropdown__link">Фасадные таблички</a></li>
+                                    <li class="dropdown__link"><a href="https://laser-m.ru/izgotovlenie-tablichek/ofisnye/" class="dropdown__link">Офисные таблички</a></li>
                                 </ul>
                             </div>
                         </div>
