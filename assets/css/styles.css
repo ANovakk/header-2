@@ -105,25 +105,35 @@ a:hover{
 .advantages{
   margin-top: 100px;
 }
-.our_advantages{
-  margin: 20px 0;
+
+.our_advantages {
   display: flex;
-  justify-content: space-around;
   flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px; /* Расстояние между блоками */
   border: 0.5rem solid red;
   border-radius: 4rem;
-  padding: 5rem 0;
-  gap: 1rem;
+  padding: 40px 0;
 }
 
-.advantages-item{
+.advantages-item {
+  flex: 1 1 calc(25% - 20px);
   text-align: center;
-  width: 16rem;
+  box-sizing: border-box;
+  margin-bottom: 20px;
 }
-.advantages-item img{
+
+.advantages-item img {
   width: 120px;
   height: 120px;
+  object-fit: cover;
 }
+
+.advantages-item p {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
 
 /*=============== BREAKPOINTS ===============*/
 
@@ -139,7 +149,7 @@ a:hover{
 
   .button{
     font-size: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
   }
 
 }
@@ -155,4 +165,22 @@ a:hover{
     margin-bottom: 100px;
   }
 
+}
+
+@media (max-width: 768px) {
+  .advantages-item {
+      flex: 1 1 calc(50% - 20px);
+  }
+}
+
+@media (max-width: 480px) {
+  .advantages-item {
+      flex: 1 1 100%;
+  }
+
+  .advantages-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
 }

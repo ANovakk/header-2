@@ -245,6 +245,8 @@ a:hover{
   /* color: black; */
   color: #edf0f1;
   font-size: 20px;
+  display: flex;
+  align-items: center;
 }
 .contact__info img{
   width: 2rem;
@@ -264,12 +266,13 @@ a:hover{
   display: flex;
   align-items: center;
 }  
-.contact__info1 p{
+p{
   margin-left: 10px;
 }
 .inst_logo{
   height: 3rem;
 }
+
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */

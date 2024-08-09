@@ -17,6 +17,7 @@
         </ul>
     </div>
     <div class="row">
+        <div class="empty"></div>
         <ul class="contact__info contact__info2">
             <li>
                 <a href="https://www.instagram.com/kvant_graver/" target="_blank">
