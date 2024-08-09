@@ -1,3 +1,9 @@
+document.getElementById("scrollLink").addEventListener("click", function(event) {
+    event.preventDefault(); // предотвращает переход по ссылке
+    document.getElementById("targetSection").scrollIntoView({ behavior: 'smooth' });
+});
+
+
 /*=============== SHOW MENU ===============*/
 const showMenu = (toggleId, navId) =>{
    const toggle = document.getElementById(toggleId),

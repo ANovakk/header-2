@@ -10,7 +10,7 @@
         <!--=============== CSS ===============-->
         <link rel="stylesheet" href="../assets/css/styles.css">
         <link rel="stylesheet" href="../assets/css/header_footer.css">
-        <title>TEST</title>
+        <title>Лазерная гравировка Алматы</title>
 
     </head>
     <body>
@@ -82,6 +82,6 @@
 
         <?php include('footer.php'); ?>
         <!--=============== MAIN JS ===============-->
-        <script src="assets/js/main.js"></script>
+
     </body>
 </html>

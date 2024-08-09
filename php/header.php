@@ -101,7 +101,7 @@
                 </li>
 
                 <li>
-                    <a href="#" class="nav__link contact__button">Контакты</a>
+                    <a href="#" id="scrollLink" class="nav__link contact__button">Контакты</a>
                 </li>
 
             </ul>
