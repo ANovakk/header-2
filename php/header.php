@@ -73,8 +73,7 @@
                                 <ul class="dropdown__list">
                                     <li class="dropdown__link"><a href="medals.php" class="dropdown__link">Гравировка на медалях</a></li>
                                     <li class="dropdown__link"><a href="trophies.php" class="dropdown__link">Гравировка на кубках</a></li>
-                                    <li class="dropdown__link"><a href="acrylic-trophies.php" class="dropdown__link">Призы из акрила</a></li>
-                                    <li class="dropdown__link"><a href="https://laser-m.ru/prizy-iz-stekla/" class="dropdown__link">Призы из стекла</a></li>
+                                    <li class="dropdown__link"><a href="prizes.php" class="dropdown__link">Изготовление призов</a></li>
                                 </ul>
                                 
                             </div>
