@@ -16,7 +16,7 @@
     <body>
         <!--=============== HEADER ===============-->
         
-        <?php include ("header.php"); ?>
+        <?php include ("php/header.php"); ?>
 
         <main class="main">
             <div class="about">
@@ -80,7 +80,7 @@
             </div>
         </main>
 
-        <?php include('footer.php'); ?>
+        <?php include('php/footer.php'); ?>
         <!--=============== MAIN JS ===============-->
 
     </body>

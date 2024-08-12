@@ -39,7 +39,7 @@
                 <img src="../img/examples/wood/3.jpg" alt="">
                 <img src="../img/examples/wood/2.jpg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="..img/examples/wood/2.jpg" alt="">
             </div>
         </main>
 
