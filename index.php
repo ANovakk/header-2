@@ -16,7 +16,7 @@
     <body>
         <!--=============== HEADER ===============-->
         
-        <?php include ("php/header.php"); ?>
+        <?php include ("php/header2.php"); ?>
 
         <main class="main">
             <div class="about">

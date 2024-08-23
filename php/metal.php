@@ -26,14 +26,14 @@
             <p>Гравировка может быть выполнена на различных типах металлов, включая: серебро, золото, медь, платину, медь, латунь, алюминий, железо, нержавеющая сталь, титан, никель, бронза.</p>
             <p>Каждый из этих популярных металлов имеет свои особенности и может требовать специального подхода при нанесении. Например, работать с мягкими металлами нужно максимально осторожно, чтобы избежать повреждений или деформации материала.</p>
             <div class="examples__container">
-                <img src="../img/examples/wood/1.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+            <img src="../img/examples/wood/1.jpg" alt="">
+                <img src="../img/examples/wood/2.jpeg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="../img/examples/wood/2.jpeg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="../img/examples/wood/2.jpeg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="..img/examples/wood/2.jpeg" alt="">
             </div>
         </main>
 

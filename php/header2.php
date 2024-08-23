@@ -31,10 +31,10 @@
                                 <span class="dropdown__title">Услуги лазерной гравировки</span>
 
                                 <ul class="dropdown__list">
-                                    <li><a href="wood.php" class="dropdown__link">Гравировка по дереву</a></li>
-                                    <li><a href="leather.php" class="dropdown__link">Гравировка на коже</a></li>
-                                    <li><a href="metal.php" class="dropdown__link">Гравировка на металле</a></li>
-                                    <li><a href="stone.php" class="dropdown__link">Гравировка на камне</a></li>
+                                    <li><a href="php/wood.php" class="dropdown__link">Гравировка по дереву</a></li>
+                                    <li><a href="php/leather.php" class="dropdown__link">Гравировка на коже</a></li>
+                                    <li><a href="php/metal.php" class="dropdown__link">Гравировка на металле</a></li>
+                                    <li><a href="php/stone.php" class="dropdown__link">Гравировка на камне</a></li>
                                     <li><a href="glass.php" class="dropdown__link">Гравировка на стекле</a></li>
                                     <li><a href="org-glass.php" class="dropdown__link">Гравировка на оргстекле</a></li>
                                     <li><a href="plast.php" class="dropdown__link">Гравировка на пластике</a></li>

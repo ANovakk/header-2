@@ -33,14 +33,14 @@
             </ul>
             <p>Принцип лазерной гравировки на дереве заключается в фокусировке луча, испаряющего слой материала. Изменение мощности луча позволяет добиться объемности рисунка, требуемой глубины, различных вариантов чернения.</p>
             <div class="examples__container">
-                <img src="../img/examples/wood/1.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+            <img src="../img/examples/wood/1.jpg" alt="">
+                <img src="../img/examples/wood/2.jpeg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="../img/examples/wood/2.jpeg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="../img/examples/wood/2.jpeg" alt="">
                 <img src="../img/examples/wood/3.jpg" alt="">
-                <img src="../img/examples/wood/2.jpg" alt="">
+                <img src="..img/examples/wood/2.jpeg" alt="">
             </div>
         </main>
 
